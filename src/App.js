@@ -18,7 +18,7 @@ function App() {
   
 
 return(
-  <BrowserRouter basename="../public/index.html">
+  <BrowserRouter>
   
   
     
