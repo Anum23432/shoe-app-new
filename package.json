@@ -1,7 +1,7 @@
 {
   "name": "shoe-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://anum23432.github.io/Shoe-app-new",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
